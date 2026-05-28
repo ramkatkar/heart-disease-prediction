@@ -1,0 +1,6 @@
+Model,CV ROC-AUC,Test Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Support Vector Machine,0.9737 ± 0.0146,0.9344,0.9333,0.9333,0.9333,0.9806
+Random Forest,0.9661 ± 0.0195,0.918,0.9032,0.9333,0.918,0.9871
+Gradient Boosting,0.9577 ± 0.0179,0.918,0.931,0.9,0.9153,0.9591
+K-Nearest Neighbours,0.9593 ± 0.0286,0.918,0.931,0.9,0.9153,0.9435
+Logistic Regression,0.9698 ± 0.0213,0.8852,0.871,0.9,0.8852,0.9806
